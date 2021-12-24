@@ -1,4 +1,4 @@
-
+![alt-text](https://github.com/HitPant/Jetson_Project_1/blob/main/tracker/infrence_gif.gif)
 
 # Description:
 
