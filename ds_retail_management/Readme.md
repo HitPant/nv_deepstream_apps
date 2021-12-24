@@ -1,4 +1,4 @@
-![alt-text](https://github.com/HitPant/Jetson_Project_1/blob/main/tracker/infrence_gif.gif)
+![alt-text](https://github.com/HitPant/nv_deepstream_apps/ds_retail_management/model_files/retail.gif)
 
 # Description:
 
