@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/HitPant/nv_deepstream_apps/ds_retail_management/model_files/retail.gif)
+![Alt Text](nv_deepstream_apps/ds_retail_management/model_files/retail.gif)
 
 
 # Description:
