@@ -1,3 +1,6 @@
+![alt-test](https://github.com/HitPant/nv_deepstream_apps/blob/main/highway_entry_exit/model_files/highway_inf.gif)
+
+
 # Description:
 This usecase is built on top of the deepstream_test3.py.<br>
 Built using Deepstream SDK and nvdsanalytics on Jetson Nano.<br>
