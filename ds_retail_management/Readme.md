@@ -1,4 +1,5 @@
-![alt-text] (https://github.com/HitPant/nv_deepstream_apps/ds_retail_management/model_files/retail.gif)
+![alt-text](https://github.com/HitPant/nv_deepstream_apps/ds_retail_management/model_files/retail.gif)
+
 
 # Description:
 
