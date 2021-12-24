@@ -38,7 +38,7 @@ The application is for counting number of cars on Lane1 and Lane2 on the highway
 
 ### Steps to run the project:<br>
 1. For running with downloaded video:
-> $ python3 deepstream_retail_mgm.py file://< path to the video file>
+> $ python3 highway_entry_exit.py file://< path to the video file>
     
 2. For running with rtsp link:
-> $ python3 deepstream_retail_mgm.py rtsp://< rtsp link>
+> $ python3 highway_entry_exit.py rtsp://< rtsp link>
